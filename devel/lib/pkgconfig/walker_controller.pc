@@ -1,0 +1,8 @@
+prefix=/home/kasif/Desktop/cp302/cw2/devel
+
+Name: walker_controller
+Description: Description of walker_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

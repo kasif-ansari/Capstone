@@ -1,0 +1,8 @@
+prefix=/home/kasif/Desktop/cp302/cw2/install
+
+Name: walker_gazebo
+Description: Description of walker_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

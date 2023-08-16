@@ -1,0 +1,2 @@
+walker_controller:walker_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/kasif/Desktop/cp302/cw2/devel -DCMAKE_INSTALL_PREFIX=/home/kasif/Desktop/cp302/cw2/install -G Unix Makefiles
